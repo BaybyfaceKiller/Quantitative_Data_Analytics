@@ -1,5 +1,4 @@
-# Name: Chenxu Liu
-# SciNet username: tmp_cliu
+
 # Description:
 #  This script generates plots according to the commandline argument using
 #    functions in plottingTools.R
