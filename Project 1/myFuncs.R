@@ -1,5 +1,4 @@
-# Name: Chenxu Liu
-# SciNet username: tmp_cliu
+
 # Description:
 #  This script contains functions that calculate
 #    geometric mean of postive elements in vector and arithmetic mean
