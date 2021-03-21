@@ -1,5 +1,4 @@
-# Name: Chenxu Liu
-# SciNet username: tmp_cliu
+
 # Description:
 #  This script performs actions on the dataset using functions in the
 #     utility file based on given argument
