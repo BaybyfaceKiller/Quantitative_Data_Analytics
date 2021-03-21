@@ -1,5 +1,4 @@
-# Name: Chenxu Liu
-# SciNet username: tmp_cliu
+
 # Description:
 #  This script contains functions that make scatter plot and box plot
 
