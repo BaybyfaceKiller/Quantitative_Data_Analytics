@@ -1,5 +1,4 @@
-# Name: Chenxu Liu
-# SciNet username: tmp_cliu
+
 # Description:
 #  This script  (1) Finds total number of service calls per city division
               # (2) Finds number of reports of dead animal on expressway
