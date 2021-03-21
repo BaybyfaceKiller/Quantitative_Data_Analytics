@@ -1,5 +1,4 @@
-# Name: Chenxu Liu
-# SciNet username: tmp_cliu
+
 # Description:
 #  This script uses the functions in Monty.Hall.Utilities.R to run different
 #    scenarios as the command line argument instructed
