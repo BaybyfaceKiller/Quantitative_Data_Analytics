@@ -1,5 +1,4 @@
-# Name: Chenxu Liu
-# SciNet username: tmp_cliu
+
 # Description:
 #  This script builds classification model using functions in ClassificationUtilities.py
 #      with given arguments
